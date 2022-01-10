@@ -17,7 +17,7 @@ dependencies {
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
 
     implementation 'com.github.pengrad:java-telegram-bot-api:5.5.0'
-    
+
     implementation 'com.fasterxml.jackson.core:jackson-databind:2.12.4'
 
     compileOnly 'org.projectlombok:lombok:1.18.22'
