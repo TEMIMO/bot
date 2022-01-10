@@ -18,7 +18,7 @@ public class HHTelegramBot {
     TelegramBot bot;
 
     public HHTelegramBot() {
-        this.bot = new TelegramBot("BOT_TOKEN");
+        this.bot = new TelegramBot("BOT_FATHER_TOKEN");
     }
 
 
